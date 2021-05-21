@@ -1,5 +1,7 @@
-def add (x, y):
-    print(x+y)
+# arithmetic.py
 
-def sub(x, y):
-    print(x-y)
+def sum(x, y):
+    return x+y
+
+def minus(x, y):
+    return x-y
